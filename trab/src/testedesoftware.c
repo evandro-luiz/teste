@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <C:\testedesoftware\src\testedesoftware.h>
+#include <testedesoftware.h>
 
 int main() {
     int idade, quantidade;
