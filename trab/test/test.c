@@ -1,5 +1,5 @@
 #include "minunit-master/minunit.h"
-#include "C:\Users\uezo\Desktop\trab"
+#include "C:\Users\uezo\Downloads\testedesoftware\testedesoftware\src\testedesoftware.h"
 
 MU_TEST(teste_idade_menos_um_qtd_3) {
     mu_assert_double_eq(1.0f, calcular_preco_total(-1, 3)); // invalido
